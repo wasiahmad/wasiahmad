@@ -1,7 +1,7 @@
 ### 🚀 Things I do
 
 - **Ph.D.** student in [Computer Science at UCLA](https://www.cs.ucla.edu/)
-- Working on Natural Language Processing (NLP) with a special focus on Representation Learning
+- Working on **Natural Language Processing (NLP)** with a special focus on **Representation Learning**
 
 ### 📬 Find me at
 
