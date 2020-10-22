@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 🚀 Things I do
 
 - **Ph.D.** student in [Computer Science at UCLA](https://www.cs.ucla.edu/)
