@@ -1,7 +1,7 @@
 ### :briefcase: Things I do
 
-- Ph.D. student :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/)
-- Working on **Natural Language Processing (NLP)** with a special focus on **Representation Learning**
+- Ph.D. student :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
+- Working on **Natural Language Processing (NLP)** with a special focus on **Representation Learning**.
 
 ### :mailbox_with_mail: Find me at
 
@@ -15,5 +15,5 @@
 
 ### :loudspeaker: What's new
 
-- **[10.2020]** Released [source code](https://github.com/wasiahmad/PolicyQA) of our work on question answering for privacy policies
-- **[04.2020]** Released [source code](https://github.com/wasiahmad/NeuralCodeSum) of our work on source code summarization
+- **[10.2020]** Released [source code](https://github.com/wasiahmad/PolicyQA) of our work on question answering for privacy policies.
+- **[04.2020]** Released [source code](https://github.com/wasiahmad/NeuralCodeSum) of our work on source code summarization.
