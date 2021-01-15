@@ -9,6 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wasicse90@gmail.com)](mailto:wasicse90@gmail.com)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=wasiahmad&show_icons=true&hide_border=False)](https://github.com/wasiahmad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasiahmad&layout=compact)](https://github.com/wasiahmad)
 
 <!---
 ### :loudspeaker: What's new
