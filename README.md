@@ -1,6 +1,6 @@
 ### :briefcase: Things I do
 
-- Ph.D. student :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
+- Ph.D. candidate :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
 - Working on **Natural Language Processing (NLP)** with a special focus on **Representation Learning**.
 
 ### :mailbox_with_mail: Find me at
