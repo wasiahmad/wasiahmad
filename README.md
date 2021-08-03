@@ -3,6 +3,8 @@
 - Ph.D. candidate :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
 - Working on **Natural Language Processing (NLP)** with a special focus on **learning from limited labeled data**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiahmad&label=Profile%20views&color=0e75b6&style=flat" alt="wasiahmad" /> </p>
+
 ### :mailbox_with_mail: Find me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadwasi/)](https://www.linkedin.com/in/ahmadwasi/)
