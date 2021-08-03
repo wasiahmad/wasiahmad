@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasiahmad&row=1&column=7&margin-w=15&margin-h=15" alt="wasiahmad" /></a> </p>
 
-### :briefcase: Things I do
+### Things I do
 
 - Ph.D. candidate :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
 - Working on **Natural Language Processing (NLP)** with a special focus on **learning from limited labeled data**.
 
 
-### :mailbox_with_mail: Connect with me
+### Connect with me
 
 <p align="left">
 <a href="https://twitter.com/ahmadwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadwasi" height="30" width="40" /></a>
