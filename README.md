@@ -4,8 +4,8 @@
 
 ### Things I do
 
-- Ph.D. candidate :man_student: in [Computer Science at UCLA](https://www.cs.ucla.edu/).
-- Working on **Natural Language Processing (NLP)** with a special focus on **learning from limited labeled data**.
+- Applied Scientist :man_technologist: in [Amazon Web Services, AI](https://aws.amazon.com/ai).
+- Working on **Automatic Code Completion** with a special focus on **learning from limited labeled data**.
 
 
 ### Connect with me
