@@ -5,7 +5,7 @@
 ### Things I do
 
 - Applied Scientist :man_technologist: in [Amazon Web Services, AI](https://aws.amazon.com/ai).
-- Working on **automatic code completion** with a special focus on **learning from limited labeled data**.
+- Working on **automating code completion** with a special focus on **self-supervised** approaches.
 
 
 ### Connect with me
