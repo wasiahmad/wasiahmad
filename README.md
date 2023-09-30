@@ -6,8 +6,8 @@
 
 ### Things I do
 
-- Applied Scientist :man_technologist: in [Amazon Web Services, AI](https://aws.amazon.com/ai).
-- Working on **automating code completion** with a special focus on **self-supervised** approaches.
+- Applied Scientist :man_technologist: at AWS AI Labs.
+- I am part of the science team that builds [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/).
 
 
 ### Connect with me
