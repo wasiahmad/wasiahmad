@@ -6,8 +6,8 @@
 
 ### Things I do
 
-- Applied Scientist :man_technologist: at AWS AI Labs.
-- I am part of the science team that builds [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/).
+- Senior Research Scientist :man_technologist: at NVIDIA.
+- I am part of the [Applied Deep Learning Research](https://nv-adlr.github.io/) group.
 
 
 ### Connect with me
