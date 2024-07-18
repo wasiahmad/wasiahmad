@@ -7,7 +7,7 @@
 ### Things I do
 
 - Senior Research Scientist :man_technologist: at NVIDIA.
-- I am part of the [Applied Deep Learning Research](https://nv-adlr.github.io/) group.
+- I am part of the [Conversational AI Research](https://www.nvidia.com/en-us/solutions/ai/conversational-ai/) group.
 
 
 ### Connect with me
