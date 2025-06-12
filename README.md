@@ -9,6 +9,7 @@
 - Senior Research Scientist :man_technologist: at NVIDIA.
 - I am part of the [Conversational AI Research](https://www.nvidia.com/en-us/solutions/ai/conversational-ai/) group.
 
+[![Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasiahmad&hide=contribs&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
